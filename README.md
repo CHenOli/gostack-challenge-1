@@ -15,7 +15,7 @@ Note that the dates can change as the bootcamp is still in progress.
 ![June Schedule](https://raw.githubusercontent.com/CHenOli/gostack-challenge-1/master/imgs/june.png)
 
 ## July schedule
-![June Schedule](https://raw.githubusercontent.com/CHenOli/gostack-challenge-1/master/imgs/june.png)
+![July Schedule](https://raw.githubusercontent.com/CHenOli/gostack-challenge-1/master/imgs/july.png)
 *This one should change a lot, since it holds more challenging content.*
 
 ## 
